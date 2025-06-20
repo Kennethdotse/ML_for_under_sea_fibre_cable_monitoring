@@ -89,8 +89,8 @@ Replace the path with your test audio file.
 
 ## Authors
 
-Kenneth Dotse
-Akresi Lloyd
+* Kenneth Dotse
+* Akresi Lloyd
 
 ---
 
