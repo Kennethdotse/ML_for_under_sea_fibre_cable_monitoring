@@ -51,7 +51,7 @@ By training an autoencoder on normal data, we measure how well it reconstructs n
 * `scaler.pkl`: Saved `StandardScaler` instance
 * `autoencoder_anomaly.py` (from notebook): Full pipeline implementation
 * `prelim_tests.ipynb` was for testing out initial ideas
-* `test_03.ipynb` was for testing out training the autoencoder and making sure it is able to classify anomalies based on a certain threshold
+* `test_01.ipynb` was for testing out training the autoencoder and making sure it is able to classify anomalies based on a certain threshold
 
 ---
 
