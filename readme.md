@@ -97,3 +97,7 @@ Replace the path with your test audio file.
 ## License
 
 This project is for academic/research purposes. Adapt freely with attribution.
+
+
+![Anomaly detection visualization](./output/image.png)  
+*Figure 1: Example output showing detected anomalies in fibre optic data.*
