@@ -81,8 +81,7 @@ Replace the path with your test audio file.
 
 ## Future Improvements
 
-* Use **LSTM autoencoder** to model temporal patterns
-* **Segmentation** and **timestamp annotation** of events
+* **Segmentation** and **timestamp annotation** of events (what we seek to do next)
 * Apply **dynamic thresholding** or adaptive learning
 * Expand to real-time streaming scenarios
 
@@ -91,7 +90,7 @@ Replace the path with your test audio file.
 ## Authors
 
 Kenneth Dotse
-\[Your GitHub or Contact if applicable]
+Akresi Lloyd
 
 ---
 
